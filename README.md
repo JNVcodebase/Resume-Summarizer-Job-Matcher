@@ -48,3 +48,22 @@ Paste your résumé, hit “Analyze”, and discover what kind of career path ma
    ```bash
    git clone https://github.com/<yourusername>/friendly-tribble.git
    cd friendly-tribble
+Open index.html in your browser
+
+Paste your résumé and click Analyze 💼
+
+💡 Future Ideas
+
+🪄 Add résumé summarization using AI/NLP (spaCy or transformers)
+
+📊 Display a “Career Fit” chart with percentages
+
+💬 Generate a career summary paragraph (“You’re a data-driven problem solver...”)
+
+🌈 Make results shareable as mini personality/job cards
+
+🌸 Credits
+
+Created with curiosity, creativity, and a sprinkle of stardust by Me 💛
+
+"Your résumé tells your story — this app helps you find where that story leads." ✨
