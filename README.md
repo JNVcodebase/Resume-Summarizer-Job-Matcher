@@ -1,6 +1,6 @@
 # 💼 Resume Summarizer & Job Matcher ✨
 
-Welcome to **Friendly Tribble**, your playful **AI-inspired résumé summarizer** that reads your résumé, detects your key skills, and predicts the **Top 10 job roles** that fit you best! 🌈  
+Welcome to your playful **AI-inspired résumé summarizer** that reads your résumé, detects your key skills, and predicts the **Top 10 job roles** that fit you best! 🌈  
 
 Paste your résumé, hit “Analyze”, and discover what kind of career path matches your vibe 💫  
 
@@ -18,8 +18,8 @@ Paste your résumé, hit “Analyze”, and discover what kind of career path ma
 
 ## 🌐 Live Demo
 
-👉 **[Try It Here!](https://<yourusername>.github.io/friendly-tribble/)**  
-*(Replace `<yourusername>` with your GitHub username to make it clickable!)*  
+👉 **[Try It Here!]()**  
+ 
 
 ---
 
