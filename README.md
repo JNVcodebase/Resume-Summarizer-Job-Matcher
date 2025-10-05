@@ -44,11 +44,8 @@ Paste your résumé, hit “Analyze”, and discover what kind of career path ma
 
 ## 🚀 How to Run Locally
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<yourusername>/friendly-tribble.git
-   cd friendly-tribble
-Open index.html in your browser
+1. Clone this repository
+2. Open index.html in your browser
 
 Paste your résumé and click Analyze 💼
 
